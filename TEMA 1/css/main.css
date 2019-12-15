@@ -1,0 +1,30 @@
+body {
+	background-color: #FFFAE7;
+}
+
+.bg-navbar, .footer {
+	background-color: #54251C;
+}
+
+.nav-item {
+	color: white;
+}
+
+.jumbotron {
+	background: url(../media/Cover.jpg);
+	size: cover;
+	min-height: 400px;
+}
+
+.j-style, .fa-facebook, .fa-instagram, .footer-text {
+	color: whitesmoke;
+}
+
+.display-4 {
+	line-height: 0.2;
+}
+
+.cover-text {
+	margin-top: 165px;
+}
+
